@@ -43,4 +43,9 @@ body {
 
 .input-group-append {
     cursor: pointer;
-  }
+}
+
+.editButton{
+    background-color: grey;
+    left: 10px;
+}
