@@ -46,6 +46,20 @@ body {
 }
 
 .editButton{
-    background-color: grey;
+    background-color: whitesmoke;
     left: 10px;
+    top:5px;
+    border-radius: 5px;
+}
+
+.editButton:hover {
+    background-color:lightgray;
+}
+
+.bi-pencil-fill {
+    margin:5px;
+}
+
+.rowOfProducts{
+    margin-bottom: 40px;
 }
