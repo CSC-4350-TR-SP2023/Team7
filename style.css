@@ -24,3 +24,42 @@ body {
 #seller-dash-header {
     margin: 20px; 
 }
+
+#seller-listing-header {
+    margin: 20px; 
+}
+
+#listingButtonDiv {
+    margin: 20px;
+}
+
+#originalPriceDiv {
+    margin-right: 5px;
+}
+
+#expirationDateDiv{
+    width: 50%;
+}
+
+.input-group-append {
+    cursor: pointer;
+}
+
+.editButton{
+    background-color: whitesmoke;
+    left: 10px;
+    top:5px;
+    border-radius: 5px;
+}
+
+.editButton:hover {
+    background-color:lightgray;
+}
+
+.bi-pencil-fill {
+    margin:5px;
+}
+
+.rowOfProducts{
+    margin-bottom: 40px;
+}
